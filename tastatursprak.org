@@ -1,4 +1,5 @@
 #+TITLE: Endre tastaturspråk
+#+OPTIONS: num:nil toc:nil
 
 * Introduksjon
 
