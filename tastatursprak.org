@@ -1,5 +1,5 @@
 #+TITLE: Endre tastaturspråk
-#+OPTIONS: num:nil toc:nil
+#+OPTIONS: num:nil toc:nil html-postamble:nil
 
 * Introduksjon
 
