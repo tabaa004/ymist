@@ -16,5 +16,14 @@ Problemet oppstår om man har fått sagt til Windows at man har et engelsk tasta
 Trykk på "Alt + Shift" en gang til.
 
 * Varig løsning
+Velg "Kontrollpanel" fra startmenyen. (Trykk Windows-tasten på tastaturet, to til høyre for mellomrom, skriv "kontroll" og trykk Enter.) Under "Klokke, språk og område", velg "Endre tastur- eller andre inndatametoder".[[file:./figurer/tastatursprak_201705_104511.png]]
 
+Under fanen "Tastatur og språk", velg "Endre tastaturer..."
 
+[[file:./figurer/tastatursprak_201705_104619.png]]
+
+Under fanen "Avanserte tasteinnstillinger", sett "Tastesekvensens" for "Handlingen" /Mellom inndataspråk/ til å være "Ikke tilordnet". 
+
+[[file:./figurer/tastatursprak_201705_104811.png]]
+
+Du har nå skrudd av hurtigtasten for å skifte mellom norsk og engelsk tastatur og "Alt + Shift" skal i utgangspunktet ikke lenger gjøre noe.
