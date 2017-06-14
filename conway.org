@@ -1,5 +1,5 @@
 #+TITLE: Conway
-#+REVEAL_ROOT: file:.
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
 #+OPTIONS: num:nil toc:nil
 
 
